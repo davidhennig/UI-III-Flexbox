@@ -64,3 +64,134 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Copy and paste your work from yesterday here and start to refactor into flexbox */
+header{
+	display:flex;
+	justify-content:space-evenly;
+	padding:20px;
+}
+nav{
+	display: flex;
+	justify-content: space-evenly;
+	
+}
+a{
+	text-decoration: none;
+	color:grey;
+}
+.logo{
+	display:flex;
+}
+.top-content{
+	display:flex;
+	justify-content:space-evenly;
+	justify-content:center;
+  	align-items:center;
+}
+.top-content-left{
+	text-align:center;
+}
+h2{
+	font-size:70px;
+}
+.middle-content{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	padding:30px;
+}
+.center-image{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.bottom-content{
+	display:flex;
+	justify-content:space-evenly;
+	padding:30px;
+}
+footer{</div>
+	padding:30px;
+}
+.copyright{
+	text-align:center;
+	padding:30px;
+}
+
+/* THIS STARTS THE SECOND PAGE */
+
+.image2{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.services{
+	width:80%;
+}
+.main-info{
+	display:flex;
+	width:80%;	
+}
+.main-info1{
+	width:90%;
+	display:flex;
+	justify-content:space-evenly;
+}
+.digital-design{
+	width:40%;
+	margin:20px;
+	border: 1px solid grey;
+	background-color:lightgrey;
+}
+.uxui{
+	width:40%;
+	margin:20px;
+	border: 1px solid grey;
+	background-color:lightgrey;
+}
+.main-info2{
+	width:90%;
+	display:flex;
+	justify-content:space-evenly;
+}
+.digital-marketing{
+	width:40%;
+	margin:20px;
+	border: 1px solid grey;
+	background-color:lightgrey;
+}
+.web-development{
+	width:40%;
+	margin:20px;
+	border: 1px solid grey;
+	background-color:lightgrey;
+}
+.main-info3{
+	width:90%;
+	display:flex;
+	justify-content:space-evenly;
+}
+.ios{
+	width:40%;
+	margin:20px;
+	border: 1px solid grey;
+	background-color:lightgrey;
+}
+.android{
+	width:40%;
+	margin:20px;
+	border: 1px solid grey;
+	background-color:lightgrey;
+}
+.the-bottom{
+	width:90%;
+	display:flex;
+	justify-content:space-evenly;
+}
+.bottom-left{
+	width:60%;
+	margin:20px;
+}
+.bottom-right{
+	width:30%;
+	margin:30px;
+}
